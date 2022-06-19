@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KristinaTas
-- 👀 I’m interested in Python Programming and Data Engineering
+- 👀 I’m interested in Python Programming
 
 <!---
 KristinaTas/KristinaTas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
